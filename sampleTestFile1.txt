@@ -6,3 +6,4 @@ Git commit revert 2.
 Next change commit.
 This is comparison lecture
 
+This stash text, change in file 1
