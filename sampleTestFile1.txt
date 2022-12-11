@@ -1,2 +1,8 @@
 This is sample file 1
+
 This some new text additions.
+
+Git commit revert 2.
+Next change commit.
+This is comparison lecture
+
